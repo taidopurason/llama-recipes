@@ -2,7 +2,6 @@ torch>=2.0.1
 accelerate
 appdirs
 loralib
-bitsandbytes
 black
 black[jupyter]
 datasets
